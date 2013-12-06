@@ -12,8 +12,8 @@ and open the template in the editor.
     <body>
         <?php
             echo('Bienvenido a las pruebas de Git&Github<br />');
-            echo('Repositorio con submodulo y multiples ramas');
-            
+            echo('Repositorio con submodulo de procesos y multiples ramas<br /><br />');
+            echo('Este es el cliente2<br />');            
         ?>
     </body>
 </html>
